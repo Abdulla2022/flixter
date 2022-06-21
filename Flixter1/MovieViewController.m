@@ -49,8 +49,9 @@
     
     // 4. Create our session task
     NSURLSessionDataTask *task = [session dataTaskWithRequest:request completionHandler:^(NSData * _Nullable data, NSURLResponse * _Nullable response, NSError * _Nullable error) {
+//        NSError * localError = [NSError errorWithDomain:@"domain" code:1000 userInfo:nil];
         
-        if(error != nil){
+        if(error != nil) {
             UIAlertController* alert = [UIAlertController alertControllerWithTitle:@"Can not get Movies"
                                        message:@"The internet connection appears to be offline."
                                        preferredStyle:UIAlertControllerStyleAlert];
@@ -74,7 +75,7 @@
             [self.tableView reloadData];
         }
 
-        [self.activityIndicator stopAnimating];
+//        [self.activityIndicator stopAnimating];
 
     }];
     
