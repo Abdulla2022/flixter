@@ -41,7 +41,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///Users/AbdullahiAhmed/Downloads/Untitled.webm' title='Untitled.webm' width='' alt='Untitled.webm' />
+<iframe src="https://www.veed.io/embed/a70addd6-17ef-4011-9ac2-0f9d1dc672fc?source=compressor-sharing" width="744" height="504" frameborder="0" title="Project Name" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 GIF created with [Kap](https://getkap.co/).
