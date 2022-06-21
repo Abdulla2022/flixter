@@ -41,8 +41,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///Users/AbdullahiAhmed/Desktop/Video%20Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='file:///Users/AbdullahiAhmed/Downloads/Untitled.webm' title='Untitled.webm' width='' alt='Untitled.webm' />
 
 
 GIF created with [Kap](https://getkap.co/).
